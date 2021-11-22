@@ -1,1 +1,148 @@
-<mxfile host="app.diagrams.net" modified="2021-11-22T13:21:04.594Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="nGlGBvPNyoFP-qymbZ1d" version="15.8.3" type="github"><diagram id="JXZrnU6dK3xMpxj74gyy" name="Page-1">7VrbcuI4EP0aHkNZNr49BkiyU7lWmNnZedpSbAFajJW1RYB8/bRsCSMLAmHDJVuhqMJqt2T59OmLhBpOZzy7yvDz8JbFJGnYVjxrON2GbSPfd+BHSOalxPPsUjDIaCyVKkGPvhIptKR0QmOSa4qcsYTTZ10YsTQlEddkOMvYVFfrs0R/6jMeEEPQi3BiSn/SmA9LaWD7lfwPQgdD9WTkheWdMVbK8k3yIY7ZdEnkXDScTsYYL6/Gsw5JBHgKl7Lf5Zq7i4llJOXbdOg7g59XV/E/89bdmF3+je5fo+zMLUd5wclEvnD7/vocJNf3d5cXjxd3vccft3L+fK5Ayad0nOAUWu0+S/klHtNE2PdPksU4xVIsjYkcaGdsksZEzMSCVj4iPBLoIGjIGZCMk9naV0MLwIBphI0Jz+agIju0WhJjSbIFe6aVyRwlGy6Zy/alEEuaDBZjV0jChQTzHcCiwED2GkgFIGRnL3MD0emQctJ7xpFoT8GVAJghHycSowOhvJ4ia6FHOvItE3g7XAX8vnBvtQzcbxsdpxG4dydA4x0AtnWAfRNgfwW+KNwbwGbI+P6t9zmxDTdi6x0WW9/A9v7uk2KLvFMD14zI3+8fPye4tnNi4KLwf1FIhCdXR6jwvwTstzQakmiU0nSwCdCevCOwioY0iW/wnE3EpHOOo5FqtYcso6+gj1XBAbczhbtjaRo90VOOmZEcdB4UvqgmusUzTfEG51zNhiUJfs7pUzE/0XGMswFN24xzNpZKx3TAktHb1j0rHBC1VhDF2xtPkMGTbvfsFlwOMBF+aAXwi1yDMQAMLwyesRHpsIRlIE9ZSSGaJDURTugghWZC+qKbQJbCaulcisc0jsXI7RxqWSDoTaHWbVWSRwmGEDHo3k+KRdEQOhIYof3MaMoLdNw2fAGvjtV0Gy7MtQNtVLXhK9Qz3mEpTB/Twp4EODYlgmfAC445flp4wDHptLTk0+gk+eNsyR9nb/yxDf784F9x5vhxZnMZdeBA42wINCH8KJp+xZmDxxn7xOOMuT7vifV52xsZlDnhTZENXhu6mtOiFdsiyF5VR+4NdnPVrmD/ZNtR76vLjr4f5Zp51UCbpPG52Kquol+M82EBHNKBrxAVrWiSvbwFL4mNve2NC6EloNwVOClZRhLM6Ys+/Crw5BMeRLStrNRya2aqr59yNskiInvZS5vaGwZyrNpAUF8MCDcGKmy5eO3/YF4zGzZsLxFZ4QkuBrwwRikQ7gGq/dKrQPrvROz9t5UDLQSq48oVdDkWTLYcTn8EiJceW6OZ7o4bXHyQ4Dzf2XPfXmXbgW60YIWTBoesaVwzKb3lpJHAhkZvuaYGmeanZEb5X+K6CTG5bP6SeuK6O1vS685VI4XXLHsFjqcEot+Z1bQQUpKqd9HSuj+QjAJcJJPCbWMEoFA44xZeUDrbDsH7MFHHqW3vOHVCbR11av83LfaEDhV1zGz+xdej57RQvGxYfTSKLErAd3MtCJthuG5Y2/KbqHVY8nk7kq9Y638IJ0+eCpYeH4zMtWugMQbat61XbOvPxfw4LTrnx1xDaEWyaDxgDuEiLSS2ZX9MseLVbIlW7MAcdkmhOLDOKKNjnjM4jFHO3JMzirn//lZU3LDOM4FzFntn6hiSvUMSV1n7V5GaVT7fmMO9wF/O4aiJxL8JRy051fmajSWne9SS0/c+KBME9ZSy5UIXCIfnS2py23PthI3neNqpMrgoR/zQNKPOBJ6281ia8zihfWj3EePv0aXsNWcO9uwpimiu3wxqley2zuGGTbHzs/jYenKoV9D+Xjyn7unV++zoO9CsToeW6tUZW+fiNw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-11-22T14:00:11.349Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="EEIUpAhRSKULkACK4CEZ" version="15.8.3" type="github">
+  <diagram id="JXZrnU6dK3xMpxj74gyy" name="Page-1">
+    <mxGraphModel dx="1773" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="f3gWGGdjy4NmoF_1Ozcr-5" value="BOKA KONFERENSRUM" style="swimlane;fontFamily=Verdana;fontSize=13;rounded=0;sketch=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="210" width="310" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="f3gWGGdjy4NmoF_1Ozcr-18" value="Kalender-vy" style="whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=13;rounded=0;sketch=1;" parent="f3gWGGdjy4NmoF_1Ozcr-5" vertex="1">
+          <mxGeometry x="10" y="40" width="290" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="f3gWGGdjy4NmoF_1Ozcr-44" value="MÅN" style="swimlane;fontFamily=Verdana;fontSize=13;rounded=0;sketch=1;" parent="f3gWGGdjy4NmoF_1Ozcr-5" vertex="1">
+          <mxGeometry x="20" y="70" width="60" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="f3gWGGdjy4NmoF_1Ozcr-45" value="TIS" style="swimlane;fontFamily=Verdana;fontSize=13;rounded=0;sketch=1;" parent="f3gWGGdjy4NmoF_1Ozcr-5" vertex="1">
+          <mxGeometry x="90" y="70" width="60" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="f3gWGGdjy4NmoF_1Ozcr-47" value="ONS" style="swimlane;fontFamily=Verdana;fontSize=13;rounded=0;sketch=1;" parent="f3gWGGdjy4NmoF_1Ozcr-5" vertex="1">
+          <mxGeometry x="160" y="70" width="60" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="f3gWGGdjy4NmoF_1Ozcr-48" value="TOR" style="swimlane;fontFamily=Verdana;fontSize=13;rounded=0;sketch=1;" parent="f3gWGGdjy4NmoF_1Ozcr-5" vertex="1">
+          <mxGeometry x="230" y="70" width="60" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="f3gWGGdjy4NmoF_1Ozcr-19" value="BOKA KONFERENSRUM" style="swimlane;fontFamily=Verdana;fontSize=13;rounded=0;sketch=1;" parent="1" vertex="1">
+          <mxGeometry x="90" y="210" width="310" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="f3gWGGdjy4NmoF_1Ozcr-20" value="Incheckning" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontFamily=Verdana;fontSize=13;rounded=0;sketch=1;" parent="f3gWGGdjy4NmoF_1Ozcr-19" vertex="1">
+          <mxGeometry x="10" y="70" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f3gWGGdjy4NmoF_1Ozcr-21" value="22-11-21 - 08:15" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontFamily=Verdana;fontSize=13;rounded=0;sketch=1;" parent="f3gWGGdjy4NmoF_1Ozcr-20" vertex="1">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="f3gWGGdjy4NmoF_1Ozcr-22" value="Utcheckning" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontFamily=Verdana;fontSize=13;rounded=0;sketch=1;" parent="f3gWGGdjy4NmoF_1Ozcr-19" vertex="1">
+          <mxGeometry x="160" y="70" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f3gWGGdjy4NmoF_1Ozcr-23" value="22-11-21 - 09:30" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontFamily=Verdana;fontSize=13;rounded=0;sketch=1;fontColor=#000000;" parent="f3gWGGdjy4NmoF_1Ozcr-22" vertex="1">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zyLo-k-IU325QEQ1pN6g-11" value="" style="endArrow=none;html=1;rounded=1;sketch=1;fontFamily=Courier New;fontColor=#000000;curved=0;" edge="1" parent="f3gWGGdjy4NmoF_1Ozcr-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10" y="44.8" as="sourcePoint" />
+            <mxPoint x="60" y="44.8" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f3gWGGdjy4NmoF_1Ozcr-24" value="Sök" style="whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=13;rounded=0;sketch=1;" parent="f3gWGGdjy4NmoF_1Ozcr-19" vertex="1">
+          <mxGeometry x="95" y="140" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="f3gWGGdjy4NmoF_1Ozcr-25" value="Sök-vy" style="whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=13;rounded=0;sketch=1;" parent="f3gWGGdjy4NmoF_1Ozcr-19" vertex="1">
+          <mxGeometry x="10" y="40" width="290" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="f3gWGGdjy4NmoF_1Ozcr-52" value="" style="endArrow=none;dashed=1;html=1;rounded=1;curved=0;sketch=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="470" as="sourcePoint" />
+            <mxPoint x="450" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f3gWGGdjy4NmoF_1Ozcr-53" value="&lt;b&gt;&lt;font face=&quot;Verdana&quot;&gt;BOKA KONFERENSRUM&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;glass=0;sketch=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="80" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f3gWGGdjy4NmoF_1Ozcr-54" value="" style="endArrow=classic;html=1;rounded=1;sketch=1;curved=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.836;entryY=-0.011;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="f3gWGGdjy4NmoF_1Ozcr-53" target="f3gWGGdjy4NmoF_1Ozcr-19" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="360" as="sourcePoint" />
+            <mxPoint x="440" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f3gWGGdjy4NmoF_1Ozcr-55" value="" style="endArrow=classic;html=1;rounded=1;sketch=1;curved=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.836;entryY=-0.011;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490.8399999999999" y="140" as="sourcePoint" />
+            <mxPoint x="489.9999999999999" y="207.14" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f3gWGGdjy4NmoF_1Ozcr-56" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=1;sketch=1;curved=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="260" as="sourcePoint" />
+            <mxPoint x="440" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f3gWGGdjy4NmoF_1Ozcr-59" value="Byt till sök-vy" style="whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=13;rounded=0;sketch=1;dashed=1;dashPattern=1 2;" parent="1" vertex="1">
+          <mxGeometry x="600" y="170" width="290" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="f3gWGGdjy4NmoF_1Ozcr-60" value="Byt till kalender-vy" style="whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=13;rounded=0;sketch=1;dashed=1;dashPattern=1 2;" parent="1" vertex="1">
+          <mxGeometry x="-50" y="170" width="290" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="f3gWGGdjy4NmoF_1Ozcr-61" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=1;sketch=1;curved=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.687;entryY=1.108;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="f3gWGGdjy4NmoF_1Ozcr-18" target="f3gWGGdjy4NmoF_1Ozcr-59" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="760" y="260" as="sourcePoint" />
+            <mxPoint x="800" y="200" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="800" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f3gWGGdjy4NmoF_1Ozcr-62" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=1;sketch=1;curved=0;exitX=0;exitY=0.392;exitDx=0;exitDy=0;entryX=0.687;entryY=1.108;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" parent="1" source="f3gWGGdjy4NmoF_1Ozcr-25" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="257.84" as="sourcePoint" />
+            <mxPoint x="59.23000000000002" y="189.99999999999997" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="60" y="257.84" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zyLo-k-IU325QEQ1pN6g-2" value="" style="endArrow=classic;html=1;rounded=1;sketch=1;curved=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.836;entryY=-0.011;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240.84" y="480" as="sourcePoint" />
+            <mxPoint x="239.99999999999986" y="547.03" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zyLo-k-IU325QEQ1pN6g-3" value="" style="endArrow=classic;html=1;rounded=1;sketch=1;curved=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.836;entryY=-0.011;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="599.8399999999999" y="480" as="sourcePoint" />
+            <mxPoint x="598.9999999999998" y="547.03" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zyLo-k-IU325QEQ1pN6g-4" value="BOKA KONFERENSRUM" style="swimlane;fontFamily=Verdana;fontSize=13;rounded=0;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="550" width="310" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="zyLo-k-IU325QEQ1pN6g-10" value="Sök-vy" style="whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=13;rounded=0;sketch=1;" vertex="1" parent="zyLo-k-IU325QEQ1pN6g-4">
+          <mxGeometry x="10" y="40" width="290" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zyLo-k-IU325QEQ1pN6g-25" value="&lt;font face=&quot;Verdana&quot;&gt;&amp;nbsp;mån 21/11-21 : 08:15 - 9:30&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fontFamily=Courier New;fontColor=#000000;align=left;" vertex="1" parent="zyLo-k-IU325QEQ1pN6g-4">
+          <mxGeometry x="10" y="70" width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zyLo-k-IU325QEQ1pN6g-29" value="&lt;font face=&quot;Verdana&quot;&gt;&amp;nbsp;&lt;b&gt;Lediga konferensrum:&amp;nbsp;&lt;/b&gt;&lt;br&gt;______________________________________&lt;br&gt;&amp;nbsp;- Konferensrum 1&lt;br&gt;______________________________________&lt;br&gt;&amp;nbsp;- Konferensrum 2&lt;br&gt;______________________________________&lt;br&gt;&amp;nbsp;- Konferensrum 4&lt;br&gt;______________________________________&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fontFamily=Courier New;fontColor=#000000;align=left;verticalAlign=top;" vertex="1" parent="zyLo-k-IU325QEQ1pN6g-4">
+          <mxGeometry x="10" y="120" width="290" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="zyLo-k-IU325QEQ1pN6g-30" value="&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Ändra&lt;/font&gt;&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fontFamily=Verdana;fontColor=#000000;align=center;verticalAlign=middle;" vertex="1" parent="zyLo-k-IU325QEQ1pN6g-4">
+          <mxGeometry x="220" y="80" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zyLo-k-IU325QEQ1pN6g-32" value="Boka" style="whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=12;rounded=0;sketch=1;" vertex="1" parent="zyLo-k-IU325QEQ1pN6g-4">
+          <mxGeometry x="220" y="160" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zyLo-k-IU325QEQ1pN6g-33" value="Boka" style="whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=12;rounded=0;sketch=1;" vertex="1" parent="zyLo-k-IU325QEQ1pN6g-4">
+          <mxGeometry x="220" y="190" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zyLo-k-IU325QEQ1pN6g-34" value="Boka" style="whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=12;rounded=0;sketch=1;" vertex="1" parent="zyLo-k-IU325QEQ1pN6g-4">
+          <mxGeometry x="220" y="220" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zyLo-k-IU325QEQ1pN6g-31" value="" style="endArrow=classic;html=1;rounded=1;sketch=1;curved=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="zyLo-k-IU325QEQ1pN6g-30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350.8399999999999" y="500" as="sourcePoint" />
+            <mxPoint x="345" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
