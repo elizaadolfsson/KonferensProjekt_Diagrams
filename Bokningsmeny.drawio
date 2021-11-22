@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2021-11-22T15:27:42.591Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="cYxV6X7xmRKRXcKeS1Fk" version="15.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-22T15:33:42.944Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="f5Zs6STnr4tpXIq6rRPg" version="15.8.3" type="github">
   <diagram id="JXZrnU6dK3xMpxj74gyy" name="Page-1">
-    <mxGraphModel dx="1615" dy="552" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1940" dy="779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="f3gWGGdjy4NmoF_1Ozcr-5" value="BOKA KONFERENSRUM" style="swimlane;fontFamily=Verdana;fontSize=13;rounded=0;sketch=1;" parent="1" vertex="1">
+        <mxCell id="f3gWGGdjy4NmoF_1Ozcr-5" value="BOOK CONFERENCE" style="swimlane;fontFamily=Verdana;fontSize=13;rounded=0;sketch=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="210" width="310" height="270" as="geometry" />
         </mxCell>
         <mxCell id="f3gWGGdjy4NmoF_1Ozcr-18" value="Calendar-view" style="whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=13;rounded=0;sketch=1;" parent="f3gWGGdjy4NmoF_1Ozcr-5" vertex="1">
@@ -70,7 +70,7 @@
         <mxCell id="zyLo-k-IU325QEQ1pN6g-119" value="fri" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;fontFamily=Verdana;fontSize=9;fontColor=#000000;" vertex="1" parent="f3gWGGdjy4NmoF_1Ozcr-5">
           <mxGeometry x="230" y="90" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="f3gWGGdjy4NmoF_1Ozcr-19" value="BOKA KONFERENSRUM" style="swimlane;fontFamily=Verdana;fontSize=13;rounded=0;sketch=1;" parent="1" vertex="1">
+        <mxCell id="f3gWGGdjy4NmoF_1Ozcr-19" value="BOOK CONFERENCE" style="swimlane;fontFamily=Verdana;fontSize=13;rounded=0;sketch=1;" parent="1" vertex="1">
           <mxGeometry x="90" y="210" width="310" height="270" as="geometry" />
         </mxCell>
         <mxCell id="f3gWGGdjy4NmoF_1Ozcr-20" value="Check-in" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontFamily=Verdana;fontSize=13;rounded=0;sketch=1;" parent="f3gWGGdjy4NmoF_1Ozcr-19" vertex="1">
@@ -100,7 +100,7 @@
         <mxCell id="zyLo-k-IU325QEQ1pN6g-36" value="Change" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fontFamily=Verdana;fontColor=#000000;align=center;verticalAlign=middle;fontSize=9;" vertex="1" parent="f3gWGGdjy4NmoF_1Ozcr-19">
           <mxGeometry x="230" y="45" width="50" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="f3gWGGdjy4NmoF_1Ozcr-53" value="&lt;b&gt;&lt;font face=&quot;Verdana&quot;&gt;BOKA KONFERENSRUM&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;b style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;&lt;font face=&quot;Verdana&quot;&gt;- Sök-vy&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;b style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;&lt;font face=&quot;Verdana&quot;&gt;- Kalender-vy&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;glass=0;sketch=1;" parent="1" vertex="1">
+        <mxCell id="f3gWGGdjy4NmoF_1Ozcr-53" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;b&gt;BOOK CONFERENCE&lt;br&gt;- Search-view&lt;br&gt;- Calendar-view&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;glass=0;sketch=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="80" width="280" height="60" as="geometry" />
         </mxCell>
         <mxCell id="f3gWGGdjy4NmoF_1Ozcr-54" value="" style="endArrow=classic;html=1;rounded=1;sketch=1;curved=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.836;entryY=-0.011;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="f3gWGGdjy4NmoF_1Ozcr-53" target="f3gWGGdjy4NmoF_1Ozcr-19" edge="1">
@@ -121,10 +121,10 @@
             <mxPoint x="440" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f3gWGGdjy4NmoF_1Ozcr-59" value="Byt till sök-vy" style="whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=13;rounded=0;sketch=1;dashed=1;dashPattern=1 2;" parent="1" vertex="1">
+        <mxCell id="f3gWGGdjy4NmoF_1Ozcr-59" value="Change to search-view" style="whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=13;rounded=0;sketch=1;dashed=1;dashPattern=1 2;" parent="1" vertex="1">
           <mxGeometry x="600" y="170" width="290" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="f3gWGGdjy4NmoF_1Ozcr-60" value="Byt till kalender-vy" style="whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=13;rounded=0;sketch=1;dashed=1;dashPattern=1 2;" parent="1" vertex="1">
+        <mxCell id="f3gWGGdjy4NmoF_1Ozcr-60" value="Change to calendar-view" style="whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=13;rounded=0;sketch=1;dashed=1;dashPattern=1 2;" parent="1" vertex="1">
           <mxGeometry x="-50" y="170" width="290" height="20" as="geometry" />
         </mxCell>
         <mxCell id="f3gWGGdjy4NmoF_1Ozcr-61" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=1;sketch=1;curved=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.687;entryY=1.108;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="f3gWGGdjy4NmoF_1Ozcr-18" target="f3gWGGdjy4NmoF_1Ozcr-59" edge="1">
@@ -157,7 +157,7 @@
             <mxPoint x="598.9999999999998" y="547.03" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zyLo-k-IU325QEQ1pN6g-4" value="BOKA KONFERENSRUM" style="swimlane;fontFamily=Verdana;fontSize=13;rounded=0;sketch=1;" vertex="1" parent="1">
+        <mxCell id="zyLo-k-IU325QEQ1pN6g-4" value="BOOK CONFERENCE" style="swimlane;fontFamily=Verdana;fontSize=13;rounded=0;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="550" width="310" height="270" as="geometry" />
         </mxCell>
         <mxCell id="zyLo-k-IU325QEQ1pN6g-10" value="Search-view" style="whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=13;rounded=0;sketch=1;" vertex="1" parent="zyLo-k-IU325QEQ1pN6g-4">
@@ -190,7 +190,7 @@
             <mxPoint x="345" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zyLo-k-IU325QEQ1pN6g-37" value="BOKA KONFERENSRUM" style="swimlane;fontFamily=Verdana;fontSize=13;rounded=0;sketch=1;" vertex="1" parent="1">
+        <mxCell id="zyLo-k-IU325QEQ1pN6g-37" value="BOOK CONFERENCE" style="swimlane;fontFamily=Verdana;fontSize=13;rounded=0;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="550" width="310" height="270" as="geometry" />
         </mxCell>
         <mxCell id="zyLo-k-IU325QEQ1pN6g-38" value="Calendar-view" style="whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=13;rounded=0;sketch=1;" vertex="1" parent="zyLo-k-IU325QEQ1pN6g-37">
@@ -286,7 +286,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="zyLo-k-IU325QEQ1pN6g-102" value="&lt;font style=&quot;font-size: 9px ; font-style: normal&quot; face=&quot;Verdana&quot;&gt;&quot;En vald tid ska inte kunna överskrida 24 timmar&quot;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;fontFamily=Courier New;fontSize=9;fontColor=#000000;fontStyle=2" vertex="1" parent="1">
+        <mxCell id="zyLo-k-IU325QEQ1pN6g-102" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;span style=&quot;font-style: normal&quot;&gt;Impossible to book a room for over 24 hours&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;fontFamily=Courier New;fontSize=9;fontColor=#000000;fontStyle=2" vertex="1" parent="1">
           <mxGeometry x="-30" y="250" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zyLo-k-IU325QEQ1pN6g-120" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=1;sketch=0;fontFamily=Verdana;fontSize=9;fontColor=#000000;curved=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="zyLo-k-IU325QEQ1pN6g-110">
@@ -298,8 +298,20 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="zyLo-k-IU325QEQ1pN6g-122" value="Inga lediga tider&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;fontFamily=Verdana;fontSize=9;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="zyLo-k-IU325QEQ1pN6g-122" value="No available rooms" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;fontFamily=Verdana;fontSize=9;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="770" y="290" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zyLo-k-IU325QEQ1pN6g-185" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=1;sketch=0;fontFamily=Verdana;fontSize=9;fontColor=#000000;curved=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="750" y="440" as="sourcePoint" />
+            <mxPoint x="980" y="360" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="980" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zyLo-k-IU325QEQ1pN6g-186" value="Could calendar-view be connected to Microsofts calendar?&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;sketch=1;fontFamily=Verdana;fontSize=8;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="950" y="320" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
