@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-23T09:02:48.449Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="nbTHfqb98BdBveWwl8VY" version="14.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-23T09:10:50.175Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="GFRpJ6A_37pDBfC4Ie3y" version="14.6.0" type="github">
   <diagram id="JXZrnU6dK3xMpxj74gyy" name="Page-1">
     <mxGraphModel dx="3126" dy="891" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -69,6 +69,18 @@
         </mxCell>
         <mxCell id="zyLo-k-IU325QEQ1pN6g-119" value="fri" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=9;fontColor=#000000;sketch=1;" parent="f3gWGGdjy4NmoF_1Ozcr-5" vertex="1">
           <mxGeometry x="230" y="90" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J3u3MtIdnGx9U0rs0A85-35" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=1;fontFamily=Verdana;fontSize=17;fontColor=#000000;curved=0;sketch=1;" edge="1" parent="f3gWGGdjy4NmoF_1Ozcr-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="250" as="sourcePoint" />
+            <mxPoint x="10" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J3u3MtIdnGx9U0rs0A85-36" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=1;fontFamily=Verdana;fontSize=17;fontColor=#000000;curved=0;sketch=1;" edge="1" parent="f3gWGGdjy4NmoF_1Ozcr-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="250" as="sourcePoint" />
+            <mxPoint x="300" y="250" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="f3gWGGdjy4NmoF_1Ozcr-19" value="BOOK CONFERENCE" style="swimlane;fontFamily=Verdana;fontSize=13;rounded=0;sketch=1;" parent="1" vertex="1">
           <mxGeometry x="90" y="210" width="310" height="270" as="geometry" />
@@ -469,6 +481,24 @@
         </mxCell>
         <mxCell id="J3u3MtIdnGx9U0rs0A85-23" value="Should it be possible to book under somebody else&#39;s name?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="880" y="1270" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="J3u3MtIdnGx9U0rs0A85-26" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=#E6E6E6;sketch=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="510" width="1190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="J3u3MtIdnGx9U0rs0A85-27" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=#E6E6E6;sketch=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="1140" width="1190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="J3u3MtIdnGx9U0rs0A85-28" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=#E6E6E6;sketch=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="1500" width="1190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="J3u3MtIdnGx9U0rs0A85-29" value="&lt;font face=&quot;Courier New&quot;&gt;Search-phase&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;labelBackgroundColor=#E6E6E6;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="490" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="J3u3MtIdnGx9U0rs0A85-31" value="&lt;font face=&quot;Courier New&quot;&gt;Choose-phase&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;labelBackgroundColor=#E6E6E6;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="1120" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="J3u3MtIdnGx9U0rs0A85-33" value="&lt;font face=&quot;Courier New&quot;&gt;Confirm-phase&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;labelBackgroundColor=#E6E6E6;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="1480" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
