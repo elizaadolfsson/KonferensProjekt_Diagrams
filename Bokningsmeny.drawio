@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-23T09:32:54.185Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="NCpp_n3HVHlTipmB9YT4" version="14.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-23T09:38:46.897Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="Gu7kc-GsqkwBPWGKWw2P" version="14.6.0" type="github">
   <diagram id="JXZrnU6dK3xMpxj74gyy" name="Page-1">
-    <mxGraphModel dx="3126" dy="891" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4160" dy="1292" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -447,7 +447,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="J3u3MtIdnGx9U0rs0A85-7" value="BOOK CONFERENCE" style="swimlane;fontFamily=Verdana;fontSize=13;rounded=0;sketch=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="1190" width="310" height="270" as="geometry" />
+          <mxGeometry x="440" y="1190" width="310" height="275" as="geometry" />
         </mxCell>
         <mxCell id="J3u3MtIdnGx9U0rs0A85-8" value="Confirmation-View" style="whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=13;rounded=0;sketch=1;" vertex="1" parent="J3u3MtIdnGx9U0rs0A85-7">
           <mxGeometry x="10" y="40" width="290" height="20" as="geometry" />
@@ -468,6 +468,24 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="260" y="80" as="sourcePoint" />
             <mxPoint x="260" y="-70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J3u3MtIdnGx9U0rs0A85-57" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;labelBackgroundColor=none;sketch=1;fillColor=none;strokeColor=#FF3399;" vertex="1" parent="J3u3MtIdnGx9U0rs0A85-7">
+          <mxGeometry x="25" y="195" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="J3u3MtIdnGx9U0rs0A85-61" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;labelBackgroundColor=none;sketch=1;fillColor=none;strokeColor=#FF3399;" vertex="1" parent="J3u3MtIdnGx9U0rs0A85-7">
+          <mxGeometry x="220" y="55" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="J3u3MtIdnGx9U0rs0A85-62" value="" style="endArrow=none;html=1;strokeColor=#FF0080;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="J3u3MtIdnGx9U0rs0A85-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="340" as="sourcePoint" />
+            <mxPoint x="255" y="125" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="130" y="340" />
+              <mxPoint x="170" y="340" />
+              <mxPoint x="170" y="190" />
+              <mxPoint x="255" y="190" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="J3u3MtIdnGx9U0rs0A85-18" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="zyLo-k-IU325QEQ1pN6g-211">
@@ -576,6 +594,19 @@
               <mxPoint x="505" y="1520" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="J3u3MtIdnGx9U0rs0A85-58" value="" style="endArrow=none;html=1;strokeColor=#FF0080;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="J3u3MtIdnGx9U0rs0A85-57">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="1650" as="sourcePoint" />
+            <mxPoint x="610" y="1600" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="560" y="1530" />
+              <mxPoint x="505" y="1530" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J3u3MtIdnGx9U0rs0A85-60" value="Can Cancel-button be confused with Change-button? Where are people expecting to be re-directed to?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1650" width="560" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
